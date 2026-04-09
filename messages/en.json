@@ -49,6 +49,13 @@
     "events": "Upcoming Events",
     "seeAll": "See All"
   },
+  "category": {
+    "places": "places",
+    "searchIn": "Search in",
+    "all": "All",
+    "noResults": "No results found",
+    "filters": "Filters"
+  },
   "common": {
     "loading": "Loading...",
     "error": "Something went wrong",

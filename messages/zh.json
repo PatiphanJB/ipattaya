@@ -49,6 +49,13 @@
     "events": "近期活动",
     "seeAll": "查看全部"
   },
+  "category": {
+    "places": "个地点",
+    "searchIn": "搜索",
+    "all": "全部",
+    "noResults": "未找到结果",
+    "filters": "筛选"
+  },
   "common": {
     "loading": "加载中...",
     "error": "出错了",

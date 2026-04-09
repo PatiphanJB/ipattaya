@@ -49,6 +49,13 @@
     "events": "다가오는 이벤트",
     "seeAll": "전체 보기"
   },
+  "category": {
+    "places": "곳",
+    "searchIn": "검색",
+    "all": "전체",
+    "noResults": "결과 없음",
+    "filters": "필터"
+  },
   "common": {
     "loading": "로딩 중...",
     "error": "오류가 발생했습니다",

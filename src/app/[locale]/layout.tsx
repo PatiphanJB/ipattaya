@@ -16,7 +16,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   viewportFit: 'cover',
-  themeColor: '#0a0f1a',
+  themeColor: '#f8fafc',
 };
 
 export function generateStaticParams() {
@@ -66,7 +66,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       </head>
       <body className="min-h-full flex flex-col bg-bg text-text">
         <NextIntlClientProvider messages={messages}>
-          <main className="flex-1 pb-20">
+          <main className="flex-1 pb-20 lg:pb-0 lg:pl-56">
             {children}
           </main>
           <BottomNav />

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "iPattaya — 芭提雅一站式平台",
+    "description": "芭提雅最全面的一站式平台。天气、潮汐、餐厅、酒店、景点、活动、新闻等一应俱全。"
+  },
+  "nav": {
+    "explore": "探索",
+    "map": "地图",
+    "plan": "行程",
+    "saved": "收藏",
+    "more": "更多"
+  },
+  "home": {
+    "greeting": "你好，芭提雅",
+    "search": "搜索关于芭提雅的一切...",
+    "rightNow": "芭提雅此刻",
+    "weather": "天气",
+    "tide": "潮汐",
+    "aqi": "空气质量",
+    "uv": "紫外线",
+    "wind": "风速",
+    "seaTemp": "海水温度",
+    "sunset": "日落",
+    "safeToSwim": "适合游泳",
+    "caution": "注意",
+    "unsafe": "不安全",
+    "good": "良好",
+    "moderate": "一般",
+    "unhealthy": "不佳"
+  },
+  "services": {
+    "food": "美食",
+    "hotels": "酒店",
+    "beaches": "海滩",
+    "attractions": "景点",
+    "nightlife": "夜生活",
+    "transport": "交通",
+    "wellness": "健康",
+    "events": "活动",
+    "shopping": "购物",
+    "activities": "体验",
+    "living": "生活",
+    "emergency": "紧急"
+  },
+  "sections": {
+    "trending": "热门推荐",
+    "latestNews": "最新新闻",
+    "deals": "特惠活动",
+    "events": "近期活动",
+    "seeAll": "查看全部"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "back": "返回",
+    "share": "分享",
+    "save": "收藏",
+    "call": "拨打",
+    "directions": "导航",
+    "reviews": "评价",
+    "photos": "照片",
+    "menu": "菜单",
+    "book": "预订",
+    "report": "举报",
+    "open": "营业中",
+    "closed": "已关闭",
+    "km": "公里",
+    "baht": "泰铢",
+    "perNight": "/晚"
+  }
+}

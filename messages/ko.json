@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "iPattaya — 파타야의 모든 것, 한곳에서",
+    "description": "파타야를 위한 올인원 플랫폼. 날씨, 조수, 맛집, 호텔, 관광지, 액티비티, 뉴스 등 모든 정보를 한곳에서."
+  },
+  "nav": {
+    "explore": "탐색",
+    "map": "지도",
+    "plan": "여행계획",
+    "saved": "저장됨",
+    "more": "더보기"
+  },
+  "home": {
+    "greeting": "안녕, 파타야",
+    "search": "파타야에 대한 모든 것을 검색...",
+    "rightNow": "지금 파타야",
+    "weather": "날씨",
+    "tide": "조수",
+    "aqi": "대기질",
+    "uv": "자외선",
+    "wind": "바람",
+    "seaTemp": "수온",
+    "sunset": "일몰",
+    "safeToSwim": "수영 가능",
+    "caution": "주의",
+    "unsafe": "위험",
+    "good": "좋음",
+    "moderate": "보통",
+    "unhealthy": "나쁨"
+  },
+  "services": {
+    "food": "맛집",
+    "hotels": "호텔",
+    "beaches": "해변",
+    "attractions": "관광지",
+    "nightlife": "나이트라이프",
+    "transport": "교통",
+    "wellness": "웰니스",
+    "events": "이벤트",
+    "shopping": "쇼핑",
+    "activities": "액티비티",
+    "living": "생활정보",
+    "emergency": "긴급"
+  },
+  "sections": {
+    "trending": "인기 추천",
+    "latestNews": "최신 뉴스",
+    "deals": "특가 할인",
+    "events": "다가오는 이벤트",
+    "seeAll": "전체 보기"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "back": "뒤로",
+    "share": "공유",
+    "save": "저장",
+    "call": "전화",
+    "directions": "길찾기",
+    "reviews": "리뷰",
+    "photos": "사진",
+    "menu": "메뉴",
+    "book": "예약",
+    "report": "신고",
+    "open": "영업중",
+    "closed": "영업종료",
+    "km": "km",
+    "baht": "바트",
+    "perNight": "/박"
+  }
+}

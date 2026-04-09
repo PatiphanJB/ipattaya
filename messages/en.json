@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "iPattaya — Everything Pattaya, All in One Place",
+    "description": "The ultimate all-in-one platform for Pattaya. Weather, tides, restaurants, hotels, attractions, activities, news, and more."
+  },
+  "nav": {
+    "explore": "Explore",
+    "map": "Map",
+    "plan": "Plan",
+    "saved": "Saved",
+    "more": "More"
+  },
+  "home": {
+    "greeting": "Hello, Pattaya",
+    "search": "Search everything about Pattaya...",
+    "rightNow": "Pattaya Right Now",
+    "weather": "Weather",
+    "tide": "Tide",
+    "aqi": "Air Quality",
+    "uv": "UV Index",
+    "wind": "Wind",
+    "seaTemp": "Sea Temp",
+    "sunset": "Sunset",
+    "safeToSwim": "Safe to swim",
+    "caution": "Caution",
+    "unsafe": "Unsafe",
+    "good": "Good",
+    "moderate": "Moderate",
+    "unhealthy": "Unhealthy"
+  },
+  "services": {
+    "food": "Restaurants",
+    "hotels": "Hotels",
+    "beaches": "Beaches",
+    "attractions": "Attractions",
+    "nightlife": "Nightlife",
+    "transport": "Transport",
+    "wellness": "Wellness",
+    "events": "Events",
+    "shopping": "Shopping",
+    "activities": "Activities",
+    "living": "Living",
+    "emergency": "Emergency"
+  },
+  "sections": {
+    "trending": "Trending Now",
+    "latestNews": "Latest News",
+    "deals": "Special Deals",
+    "events": "Upcoming Events",
+    "seeAll": "See All"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "share": "Share",
+    "save": "Save",
+    "call": "Call",
+    "directions": "Directions",
+    "reviews": "Reviews",
+    "photos": "Photos",
+    "menu": "Menu",
+    "book": "Book",
+    "report": "Report",
+    "open": "Open",
+    "closed": "Closed",
+    "km": "km",
+    "baht": "THB",
+    "perNight": "/night"
+  }
+}

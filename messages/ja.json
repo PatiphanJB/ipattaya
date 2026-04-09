@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "iPattaya — パタヤのすべてが、ここに",
+    "description": "パタヤの究極オールインワンプラットフォーム。天気、潮汐、レストラン、ホテル、観光地、アクティビティ、ニュースなど。"
+  },
+  "nav": {
+    "explore": "探索",
+    "map": "地図",
+    "plan": "旅行計画",
+    "saved": "保存済み",
+    "more": "その他"
+  },
+  "home": {
+    "greeting": "ようこそ、パタヤへ",
+    "search": "パタヤのすべてを検索...",
+    "rightNow": "今のパタヤ",
+    "weather": "天気",
+    "tide": "潮汐",
+    "aqi": "空気質",
+    "uv": "紫外線",
+    "wind": "風速",
+    "seaTemp": "海水温",
+    "sunset": "日没",
+    "safeToSwim": "遊泳可",
+    "caution": "注意",
+    "unsafe": "危険",
+    "good": "良好",
+    "moderate": "普通",
+    "unhealthy": "不良"
+  },
+  "services": {
+    "food": "グルメ",
+    "hotels": "ホテル",
+    "beaches": "ビーチ",
+    "attractions": "観光",
+    "nightlife": "ナイトライフ",
+    "transport": "交通",
+    "wellness": "ウェルネス",
+    "events": "イベント",
+    "shopping": "ショッピング",
+    "activities": "アクティビティ",
+    "living": "生活情報",
+    "emergency": "緊急"
+  },
+  "sections": {
+    "trending": "人気スポット",
+    "latestNews": "最新ニュース",
+    "deals": "お得情報",
+    "events": "今後のイベント",
+    "seeAll": "すべて見る"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "back": "戻る",
+    "share": "共有",
+    "save": "保存",
+    "call": "電話",
+    "directions": "道案内",
+    "reviews": "口コミ",
+    "photos": "写真",
+    "menu": "メニュー",
+    "book": "予約",
+    "report": "報告",
+    "open": "営業中",
+    "closed": "閉店",
+    "km": "km",
+    "baht": "バーツ",
+    "perNight": "/泊"
+  }
+}

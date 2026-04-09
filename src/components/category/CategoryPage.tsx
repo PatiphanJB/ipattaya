@@ -93,8 +93,9 @@ export function CategoryPage({ categoryKey, iconColor, items, filters }: Categor
       {/* Listing */}
       <div className="px-4 py-3 space-y-3">
         {items.map((item) => (
-          <div
+          <Link
             key={item.id}
+            href={`/place/${item.id}`}
             className="flex gap-3 p-3 rounded-xl bg-bg-card border border-border hover:border-primary/30 transition-colors"
           >
             {/* Thumbnail */}
@@ -140,7 +141,7 @@ export function CategoryPage({ categoryKey, iconColor, items, filters }: Categor
                 ))}
               </div>
             </div>
-          </div>
+          </Link>
         ))}
       </div>
     </div>

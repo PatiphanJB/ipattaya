@@ -1,0 +1,11 @@
+{
+  "name": "@ipattaya/rebate-platform",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rebate platform: trading-account linking, rebate ledger and referral tree. Separate from the Pattaya guide app, which is a static export and cannot host API routes.",
+  "scripts": {
+    "test": "node --test 'src/**/*.test.ts'",
+    "typecheck": "tsc --noEmit"
+  }
+}

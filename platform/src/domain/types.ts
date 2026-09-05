@@ -50,6 +50,12 @@ export interface TradingAccount {
   currency: string;
   status: LinkStatus;
   proof: OwnershipProof | null;
+  /**
+   * The registration date the user claimed when linking, kept so the daily
+   * sync can re-prove ownership on its own the day a partner change lands and
+   * the account finally shows up in our client list.
+   */
+  claimedRegisteredOn: Date | null;
   /** Set once the account first reaches 'linked'. */
   linkedAt: Date | null;
   /** Last time a broker report confirmed this account is still ours. */

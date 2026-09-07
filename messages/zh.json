@@ -75,5 +75,28 @@
     "km": "公里",
     "baht": "泰铢",
     "perNight": "/晚"
+  },
+  "chat": {
+    "title": "iPattaya 助手",
+    "subtitle": "关于芭堤雅，随便问",
+    "back": "返回",
+    "homeCta": "向 AI 助手咨询芭堤雅",
+    "greeting": "你好！我是 iPattaya 助手。芭堤雅的美食、海滩、住宿、交通和天气都可以问我。",
+    "placeholder": "输入关于芭堤雅的问题…",
+    "send": "发送消息",
+    "thinking": "思考中…",
+    "clear": "清空对话",
+    "retry": "重试",
+    "errorNetwork": "无法连接助手，请重试。",
+    "errorTimeout": "助手响应超时，请重试。",
+    "demoBadge": "演示模式",
+    "demoNotice": "AI 助手尚未接入，本页目前以演示模式回答。",
+    "demoReply": "当前为演示模式，AI 助手尚未接入。接入后，你的问题会直接发送给助手并得到真实回答。",
+    "suggestions": {
+      "s1": "宗滴恩海滩附近的海鲜餐厅",
+      "s2": "从乌塔堡机场怎么去芭堤雅？",
+      "s3": "明天天气怎么样？",
+      "s4": "适合亲子的好去处"
+    }
   }
 }

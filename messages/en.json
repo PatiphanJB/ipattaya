@@ -75,5 +75,28 @@
     "km": "km",
     "baht": "THB",
     "perNight": "/night"
+  },
+  "chat": {
+    "title": "iPattaya Assistant",
+    "subtitle": "Ask anything about Pattaya",
+    "back": "Back",
+    "homeCta": "Ask the AI assistant about Pattaya",
+    "greeting": "Hi! I'm the iPattaya assistant. Ask me about food, beaches, hotels, getting around or the weather in Pattaya.",
+    "placeholder": "Ask about Pattaya...",
+    "send": "Send message",
+    "thinking": "Thinking...",
+    "clear": "Clear conversation",
+    "retry": "Try again",
+    "errorNetwork": "Couldn't reach the assistant. Please try again.",
+    "errorTimeout": "The assistant took too long to answer. Please try again.",
+    "demoBadge": "Demo mode",
+    "demoNotice": "The AI assistant isn't connected yet, so this page answers in demo mode.",
+    "demoReply": "This is demo mode — the assistant isn't connected yet. Once it is, your question goes straight to it for a real answer.",
+    "suggestions": {
+      "s1": "Seafood near Jomtien Beach",
+      "s2": "How do I get from U-Tapao airport to Pattaya?",
+      "s3": "What's the weather like tomorrow?",
+      "s4": "Family-friendly things to do"
+    }
   }
 }

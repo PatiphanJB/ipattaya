@@ -2,12 +2,13 @@ import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import {
   FileText, MessageCircle, TrendingUp, Building2,
-  Users, Shield, HelpCircle, Info,
+  Users, Shield, HelpCircle, Info, Sparkles,
 } from 'lucide-react';
 
 type Props = { params: Promise<{ locale: string }> };
 
 const moreItems = [
+  { label: 'AI Assistant', href: '/chat', icon: Sparkles, color: 'text-primary' },
   { label: 'Pattaya News', href: '/news', icon: FileText, color: 'text-primary' },
   { label: 'Community Forum', href: '/community', icon: MessageCircle, color: 'text-emerald-500' },
   { label: 'Property & Real Estate', href: '/property', icon: Building2, color: 'text-amber-500' },
